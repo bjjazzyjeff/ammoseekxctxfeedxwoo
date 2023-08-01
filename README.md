@@ -5,7 +5,7 @@ This document is intended for retailers who wish to publish a product feed to Am
 Pre-Requisites
 
 Active website running WooCommerce
-CTX Feed Pro: 
+CTX Feed Pro
 AmmoSeek Retailer Account: https://ammoseek.com/get-listed/
 
 Assumptions
